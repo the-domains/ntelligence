@@ -1,0 +1,28 @@
+name: NTelligence
+favicon: null
+layout_spectrum: 0.7993051041848958
+typography_spectrum: 0.900384560925886
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7819229916203767
+  lightness: 0.30054773250594735
+  saturation: 0.932629166636616
+  rhythmicContrast: 0.7976600572001189
+purpose: []
